@@ -1,4 +1,4 @@
-/* premier commentaire.*/
+/** premier commentaire.*/
 package com.example;
 
 /**
