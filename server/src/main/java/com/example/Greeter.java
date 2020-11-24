@@ -1,8 +1,9 @@
 package com.example;
 
-/*
+/**
 * petite class des familles
 */
+
 public class Greeter {
 
   /**
@@ -12,7 +13,6 @@ public class Greeter {
 
   }
 
-  
   /**
   * @param someone name of a person
   * @return greeting string
